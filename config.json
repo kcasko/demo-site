@@ -1,0 +1,114 @@
+{
+  "businessName": "Joe's Auto Repair",
+  "tagline": "Honest Service, Fair Prices",
+  "phone": "(555) 123-4567",
+  "email": "contact@joesautorepair.com",
+  "address": {
+    "street": "123 Main Street",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62701"
+  },
+  "socialMedia": {
+    "facebook": "https://facebook.com/joesautorepair",
+    "instagram": "",
+    "twitter": ""
+  },
+  "about": {
+    "title": "Your Trusted Local Mechanics",
+    "description": "Family-owned and operated since 1985, Joe's Auto Repair has been serving the Springfield community for over 35 years. We pride ourselves on honest diagnostics, quality repairs, and treating every customer like family."
+  },
+  "services": [
+    {
+      "name": "Oil Changes",
+      "description": "Quick and affordable oil changes using quality synthetic and conventional oils.",
+      "icon": "🛢️"
+    },
+    {
+      "name": "Brake Service",
+      "description": "Complete brake inspections, pad replacements, and rotor resurfacing.",
+      "icon": "🛑"
+    },
+    {
+      "name": "Engine Diagnostics",
+      "description": "State-of-the-art computer diagnostics to identify any engine issues.",
+      "icon": "🔧"
+    },
+    {
+      "name": "Tire Services",
+      "description": "Tire rotation, balancing, alignment, and new tire installation.",
+      "icon": "🚗"
+    },
+    {
+      "name": "AC Repair",
+      "description": "Keep cool with our air conditioning repair and recharge services.",
+      "icon": "❄️"
+    },
+    {
+      "name": "General Maintenance",
+      "description": "Tune-ups, fluid checks, and preventive maintenance to keep you on the road.",
+      "icon": "⚙️"
+    }
+  ],
+  "hours": {
+    "monday": "8:00 AM - 6:00 PM",
+    "tuesday": "8:00 AM - 6:00 PM",
+    "wednesday": "8:00 AM - 6:00 PM",
+    "thursday": "8:00 AM - 6:00 PM",
+    "friday": "8:00 AM - 6:00 PM",
+    "saturday": "9:00 AM - 3:00 PM",
+    "sunday": "Closed"
+  },
+  "theme": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1e40af",
+    "accentColor": "#f59e0b"
+  },
+  "testimonials": [
+    {
+      "name": "Sarah M.",
+      "text": "Best auto shop in town! They fixed my car quickly and didn't try to upsell me on things I didn't need.",
+      "rating": 5
+    },
+    {
+      "name": "Mike R.",
+      "text": "Honest, reliable, and affordable. I've been bringing my cars here for 10 years.",
+      "rating": 5
+    },
+    {
+      "name": "Linda K.",
+      "text": "They explained everything clearly and the price was exactly what they quoted. Highly recommend!",
+      "rating": 5
+    }
+  ],
+  "gallery": {
+    "title": "Our Shop",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=600",
+        "caption": "Our service bays"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1530046339160-ce3e530c7d2f?w=600",
+        "caption": "State-of-the-art diagnostics"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=600",
+        "caption": "Our friendly team"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=600",
+        "caption": "Quality repairs"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1493238792000-8113da705763?w=600",
+        "caption": "Customer waiting area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1625047509248-ec889cbff17f?w=600",
+        "caption": "Tire services"
+      }
+    ]
+  },
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3105.123456789!2d-89.6501!3d39.7817!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDQ2JzU0LjEiTiA4OcKwMzknMDAuNCJX!5e0!3m2!1sen!2sus!4v1234567890"
+}
