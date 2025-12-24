@@ -1,6 +1,6 @@
-# Demo Site
+# Demo Auto Repair Site
 
-A configurable, responsive website template for local businesses. This template is designed to be easily customizable through a simple JSON configuration file.
+A configurable, responsive website template for auto repair shops and local businesses. This template is designed to be easily customizable through a simple JSON configuration file.
 
 ## Features
 
@@ -33,7 +33,7 @@ All customization is done through the `config.json` file:
 ## File Structure
 
 ```
-demo-site/
+demo-auto-repair-site/
 ├── index.html      # Main HTML structure
 ├── styles.css      # Styling and responsive design
 ├── script.js       # Dynamic content loading from config
